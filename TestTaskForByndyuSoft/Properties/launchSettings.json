@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestTaskForByndyuSoft": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
